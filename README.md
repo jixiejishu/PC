@@ -115,6 +115,7 @@
 ### NAS
 
 - [飞牛 fnNAS](https://fnnas.com/)（热门 NAS 系统，基于 Ubuntu，支持 x86 和 ARM）
+- [ophub-飞牛](https://github.com/ophub/fnnas)
 - [iStoreOS](https://site.istoreos.com/)
 - [TrueNAS](https://www.truenas.com/)（著名 NAS 系统，支持 Docker，基于 OpenZFS）
 - [OpenMediaVault](https://www.openmediavault.org/)（Debian 系的 NAS 系统）
